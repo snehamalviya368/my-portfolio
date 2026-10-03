@@ -5,7 +5,7 @@ import profilePhoto from "../assets/sneha-photo.png"
 function Hero() {
 
   // Typing roles
-  const roles = ["Frontend Devloper"]
+  const roles = ["Frontend Developer"]
 
   const [roleIndex, setRoleIndex] = useState(0)
   const [text, setText] = useState("")
